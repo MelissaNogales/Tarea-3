@@ -12,7 +12,7 @@
 ![alt text](./Imagenes/Captura.PNG)
 
 ### 3. Indica cuales son las clases base y las derivadas.
-####   _La clase base es Figura y las derivadas son Rectangulo y Circulo._
+####   _La clase base es Figura y las derivadas son Rectangulo, Cuadrado, Triangulo, Trapecio, Rombo y             Circulo._
 
 ### 4. ¿Que es herencia simple y herencia múltiple? 
 ####    Herencia simple.
@@ -22,7 +22,7 @@
 ####    Herencia múltiple.
 ####    _Hace referencia a la característica de los lenguajes de programación orientada a objetos en la             que una clase puede heredar comportamientos y características de más de una superclase._
 ####    _La herencia múltiple permite a una clase tomar funcionalidades de otras clases._
-###    ¿En c# se puede hacer herencia múltiple?
+####    ¿En c# se puede hacer herencia múltiple?
 ####    _No_
 
 ### 5. Escribe el programa de Figura.
